@@ -1,0 +1,12 @@
+.campo label, .campo input {
+    display: block;
+    margin: 10px 0;
+}
+.campo input, .boton {
+    border-radius: 5px;
+    border-color: #B4B4B4;
+    padding: 3px;
+}
+.boton {
+    padding: 3px 7px;
+}
